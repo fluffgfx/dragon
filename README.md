@@ -1,4 +1,4 @@
-dragon
+Dragon
 ======
 
-very simple program that draws dragon fractal
+A very simple program that draws a dragon fractal ascii-style.
